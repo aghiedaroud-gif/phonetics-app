@@ -204,7 +204,7 @@ export default function App() {
 
               {/* MODEL CASE */}
               <div className="bg-slate-950 p-6 rounded-xl border border-indigo-500/20 bg-gradient-to-br from-slate-950 to-indigo-950/20">
-                <h3 className="text-sm font-bold text-indigo-400 tracking-wider uppercase mb-3">Model Analysis Case: 'cramped'[cite: 8]</h3>
+                <h3 className="text-sm font-bold text-indigo-400 tracking-wider uppercase mb-3">Model Analysis Case: 'cramped'</h3>
                 <div className="grid grid-cols-3 gap-4 text-center">
                   <div className="bg-slate-900/80 p-3 rounded-lg border border-slate-800">
                     <span className="block text-xs font-semibold text-slate-500 uppercase">Onset</span>
@@ -226,7 +226,7 @@ export default function App() {
 
               {/* STUDY TASKS SHEET */}
               <div className="bg-slate-950 rounded-xl border border-slate-800 p-6 space-y-4">
-                <h3 className="text-lg font-bold text-slate-200">Textbook Exercise Solutions[cite: 8]</h3>
+                <h3 className="text-lg font-bold text-slate-200">Textbook Exercise Solutions</h3>
                 <div className="divide-y divide-slate-800 text-sm">
                   {[
                     { w: "squealed /skwi:ld/", o: "s (Pre-initial) + k (Initial) + w (Post-initial)", p: "i: (Long Vowel)", c: "l (Pre-final) + d (Final)" },
